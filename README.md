@@ -1,4 +1,6 @@
 # PyTorch
+- Learning from actual PyTorch tutorials.
+- https://docs.pytorch.org/tutorials/beginner/basics/intro.html
 
 ## Setup
 - uv init
